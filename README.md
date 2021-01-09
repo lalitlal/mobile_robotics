@@ -1,4 +1,4 @@
-# Mobile Robotics Projects - 
+# Mobile Robotics Projects
 Implemented Virtually (RVIZ, GAZEBO) and on real hardware (TurtleBot)
 * EKF - HW1
 * Mapping and Localization - Lab 2 (+ Assignment 2)
